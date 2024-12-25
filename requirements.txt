@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+scienceplots
+scikit-image
+torch
+plotly
